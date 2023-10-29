@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">🚀 Features</h2>
+<h2 align="center">🚀 Features 🚀</h2>
 <ul>
   <li><strong>Retrace your steps</strong>:  You can look back on your life through a timeline or map to fill in your memory gaps  or find that one restaurant or museum you loved.</li>
   <li><strong>Simplified reflection</strong>: You can reflect on your mood for any experience by a simple press of a button, and writing a journal entry is optional.</li>
