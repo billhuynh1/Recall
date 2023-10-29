@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=300 style="display: block; margin: 0 auto;">
+<h1 align="center"> <img align="center" src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=300 style="display: block; margin: 0 auto;"> </h1>
 <h1 align="center"> Recall: A wellness app that helps people remember more of their life. </h1>
 
 <h2 align="center"> Cal Hacks 10.0 Project</h2>
@@ -30,5 +30,6 @@
 <h2 align="center">🖌️ UI/UX 🖌️</h2>
 <p align="center">Our UI is artifully crafted in Figma, focusing on deliver a fun, exciting, and intuitive user experience.</p>
 
+---
 
 <img align="center" src="https://i.imgur.com/swTydbY.png" alt="Recall Cover" style="display: block; margin: 0 auto;">
