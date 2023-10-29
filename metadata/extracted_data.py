@@ -1,19 +1,17 @@
 import csv
 import json
+import pandas as pd
 
-csv_file = "out.csv"
+csv_file = "C:/Users/PC/Desktop/Recall/Recall/metadata/Sample_Dataset.csv"
 json_file = "out.json"
+data = pd.read_csv(csv_file, encoding='utf-8')
 
-data = []
-
-# Read the CSV file and convert it to a list of dictionaries
-with open(csv_file, 'r') as csv_file:
-    csv_reader = csv.DictReader(csv_file)
-    for row in csv_reader:
-        data.append(row)
+# Convert the data to a list of dictionaries
+data_dict = data.to_dict(orient='records')
 
 # Write the data to a JSON file
 with open(json_file, 'w') as json_file:
-    json.dump(data, json_file, indent=4)
+    json.dump(data_dict, json_file, indent=4)
 
 print(f"CSV data has been successfully converted to JSON and saved in {json_file}.")
+print (json_file)
