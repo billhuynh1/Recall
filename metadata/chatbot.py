@@ -4,6 +4,7 @@ import sys
 import os
 from IPython.display import Markdown, display
 
+#needs to be edited
 def construct_index(directory_path):
     # set maximum input size
     max_input_size = 4096
