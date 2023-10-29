@@ -1,5 +1,6 @@
 <h1 align="center"> <img align="center" src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=300 style="display: block; margin: 0 auto;"> </h1>
-<h1 align="center"> Recall: A wellness app that helps people remember more of their life. </h1>
+<h1 align="center"> Recall </h1>
+<h3 align="center"> A wellness app that helps people remember more of their life. </h3>
 
 <h2 align="center"> Cal Hacks 10.0 Project</h2>
 <p align="center">Developed by Abdur Aziz, Bill Huynh, Casey Nguyen, and Linda Li</p>
