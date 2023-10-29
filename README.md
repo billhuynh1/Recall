@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=300 style="display: block; margin: 0 auto;">
-#Recall
+<img align="center" src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=300 style="display: block; margin: 0 auto;">
+<h1 align="center"> Recall: A wellness app that helps people remember more of their life. </h1>
 
 <h2 align="center"> Cal Hacks 10.0 Project</h2>
 <p align="center">Developed by Abdur Aziz, Bill Huynh, Casey Nguyen, and Linda Li</p>
@@ -31,4 +31,4 @@
 <p align="center">Our UI is artifully crafted in Figma, focusing on deliver a fun, exciting, and intuitive user experience.</p>
 
 
-<img src="https://i.imgur.com/swTydbY.png" alt="Recall Cover" style="display: block; margin: 0 auto;">
+<img align="center" src="https://i.imgur.com/swTydbY.png" alt="Recall Cover" style="display: block; margin: 0 auto;">
