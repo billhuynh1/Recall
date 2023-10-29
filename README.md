@@ -1,4 +1,4 @@
-<h1 align="center"> <img align="center" src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=300 style="display: block; margin: 0 auto;"> </h1>
+<h1 align="center"> <img align="center" src="https://i.imgur.com/Xvg4OXj.png" alt="Recall Logo" width=150 style="display: block; margin: 0 auto;"> </h1>
 <h1 align="center"> Recall </h1>
 <h3 align="center"> A wellness app that helps people remember more of their life. </h3>
 
